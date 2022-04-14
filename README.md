@@ -4,4 +4,4 @@ Décomposition d'une matrice carrée A de plein rang par la méthode A = QR où 
 Fonction my_GramSchmidt
 
 ## Par la méthode de Householder
-Fonction my_Householder
+Fonction my_HouseholderDecomposition

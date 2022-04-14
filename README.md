@@ -1,2 +1,2 @@
-# EVN
+# Analyse numérique
 Espaces vectoriels normés
